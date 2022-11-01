@@ -1,0 +1,9 @@
+{
+  "host": "",
+  "port": 1111,
+  "user": "",
+  "password": "",
+  "database_name": "",
+  "table_name": "",
+  "num_of_test_runs": 10
+}

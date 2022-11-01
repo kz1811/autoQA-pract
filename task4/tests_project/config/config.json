@@ -1,0 +1,11 @@
+{
+  "url": "https://vk.com",
+  "url_api": "https://api.vk.com",
+  "browser": "chrome",
+  "lang": "en",
+  "implicitly_wait_sec": 0,
+  "page_load_timeout_sec": 10,
+  "script_timeout_sec": 15,
+  "explicitly_wait_sec": 15,
+  "autoit_wait_sec": 10
+}

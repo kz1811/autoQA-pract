@@ -1,0 +1,5 @@
+ACCESS_TOKEN = ""
+OWNER_ID = ""
+VERSION_VK_API = ""
+IMAGE_PATH = "tests_project/files/image.jpg"
+DOWNLOAD_IMAGE_PATH = "tests_project/files/imag.jpg"

@@ -1,0 +1,22 @@
+{
+  "url_api": "http://localhost:8080/api",
+  "url": "http://localhost:8080/web",
+  "browser": "chrome",
+  "lang": "en",
+  "implicitly_wait_sec": 0,
+  "page_load_timeout_sec": 30,
+  "script_timeout_sec": 30,
+  "explicitly_wait_sec": 30,
+  "autoit_wait_sec": 10,
+  "mysql_creds": {
+    "host": "",
+    "port": 1111,
+    "user": "",
+    "password": "",
+    "database_name": ""
+  },
+  "app_auth_creds": {
+    "auth_login": "",
+    "auth_password": ""
+  }
+}
